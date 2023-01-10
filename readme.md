@@ -6,11 +6,11 @@ This is the link for the project design (https://www.frontendmentor.io/challenge
 ![easybank](/images/easybank-mobile.png "easybank Clone")
 
 
-##features
+# features
 
--usable for desktop,tablet and phone browser.
--Navigation is built dynamically as an unordered list with js.
--accessing the sections with the navigation menu. 
+* usable for desktop,tablet and phone browser.
+* Navigation is built dynamically as an unordered list with js.
+* accessing the sections with the navigation menu. 
 
 
 
