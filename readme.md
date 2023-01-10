@@ -1,6 +1,5 @@
 This design is inspired by frontendmentor but the code is written by me only the design is from frontendmentor.
 This is the link for the project design (https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
- hope you like it :)
 
 ![easybank](/images/easybank.png "easybank Clone")
 ![easybank](/images/easybank-mobile.png "easybank Clone")
